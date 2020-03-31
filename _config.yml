@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: START FINANCE | USL
-github.repository_url: https://github.com/samaralock/Tafe20S101
+github:
+repository_url: https://github.com/samaralock/Tafe20S101
